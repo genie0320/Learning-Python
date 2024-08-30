@@ -1,8 +1,8 @@
-# Learning-Python
+# The basics
 
 ## Overview
 
-This repository contains my study notes, practice exercises, and projects as I learn Python. The goal is to document my learning journey, provide examples of various Python concepts, and create a personal reference for future projects.
+The professional Python guide for beginners in 2024
 
 ## Contents
 
